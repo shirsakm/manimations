@@ -4,9 +4,9 @@ A bunch of novice animations made with `manim`.
 
 ## Showcase
 
-![Exponential Function to the Logarithmic Function](https://github.com/shirsakm/manimations/blob/master/showcase/ExpToLog.mp4)
+https://github.com/shirsakm/manimations/assets/90378831/7b7527e6-cedc-4abc-abb0-89de79727720
 
-![Sine to Cosine function](https://github.com/shirsakm/manimations/blob/master/showcase/SineToCosine.mp4)
+https://github.com/shirsakm/manimations/assets/90378831/95f058b5-eb86-4805-b3f1-551f240af39c
 
 ## Usage
 
